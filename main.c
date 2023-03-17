@@ -187,7 +187,7 @@ int main(int argc, char const *argv[]) {
         break;
       case 17:
         print_lista(l);
-        if(verifica_ultimo_maggiore_prmio(l)){
+        if(verifica_ultimo_maggiore_primo(l)){
           printf("\n\nL'ultimo elemento della lista è maggiore al primo\n\n");
         }else{
           printf("\n\nL'ultimo elemento della lista non è maggiore al primo\n\n");

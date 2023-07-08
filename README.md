@@ -1,3 +1,3 @@
 # Lisce_C
 File C con elaborazioni su struttura lista.
-Il presente file é stato realizzato in una sessione di studio assieme a Claudia Borsani https://github.com/ClaBoris
+Le funzioni sulle liste sono state realizzate e testate in una sessione di studio assieme a Claudia Borsani https://github.com/ClaBoris
